@@ -8,3 +8,6 @@ set hlsearch
 nmap j gj
 nmap k gk
 
+let &t_SI = "\e[6 q"
+let &t_EI = "\e[2 q"
+
