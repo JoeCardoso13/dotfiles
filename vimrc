@@ -13,7 +13,7 @@ set virtualedit=all
 " visual clue when editing inside text object
 set cpo+=$
 " fold chunks of code
-set foldmethod=indent
+" set foldmethod=indent
 
 " j and k navigate visual lines rather than logical ones
 nmap j gj
