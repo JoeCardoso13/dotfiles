@@ -33,5 +33,3 @@ set wildmenu
 
 " automating comments
 set formatoptions+=r
-" turn on English check
-set spell spelllang=en_us
