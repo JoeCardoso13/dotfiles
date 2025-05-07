@@ -9,7 +9,7 @@ set so=5
 " defaulting highlight search
 set hlsearch
 " allows to walk through empty spaces
-set virtualedit=all
+" set virtualedit=all
 " visual clue when editing inside text object
 set cpo+=$
 " fold chunks of code
